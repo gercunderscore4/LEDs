@@ -1,0 +1,17 @@
+###################################
+# Datatypes (KEYWORD1)            #
+###################################
+
+LEDs      KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)    #
+#######################################
+
+init      KEYWORD2
+get       KEYWORD2
+set       KEYWORD2
+reset     KEYWORD2
+increment KEYWORD2
+decrement KEYWORD2
+test      KEYWORD2

@@ -38,6 +38,6 @@ void setup() {
 }
 
 void loop() {
-    myleds.increment();
-    delay(300);
+    myleds.set(random(255));
+    delay(1000);
 }
